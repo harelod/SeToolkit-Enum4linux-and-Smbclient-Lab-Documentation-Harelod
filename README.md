@@ -2,7 +2,7 @@
 This documentation focuses on how Setoolkit (Site Cloner) is used to clone a website and also on how to perform SMB vulnerability scaning using Enum4linux tool for testing or educational purposes only.
 
 ## 1. Objectives of Lab
-### i. To explore how attackers use social engeenering tool like SeToolkit to clone website in other to harvest credentials of their targets (individuals or companies).
+### i. To explore how attackers use social engineering tool like SeToolkit to clone website in other to harvest credentials of their targets (individuals or companies).
 ### ii. To ethically educate learners on how to cross check websites before loging in, to aviod credential harvest by attackers.
 ### iii. To create awareness of SMB vulnerability scanning tool (Enum4linux &smbclient) used to identify potential threats like anonymous access to a system, shared documents and user information.
 

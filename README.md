@@ -264,7 +264,7 @@ From above Printer, IPc and Admin folders are shared
 
 
 ## Conclusion of Docummentation
-
+In summary to aviod been exploited by an attacker, it is require to first cross check a website before filling in your crendentials. Site cloner is social engeenering strategy that can be adopted by an attacker to harvest your credentials before knowing. Also multi factor authentification has to be activated or enabled on websites or applications that require your credential login and strengthening password policy compliance. Moreover, misconfiguration on systems must be checked, shared folders or directories must be disabled from anonymous access or removed to aviod attackers from freely uploading malicious files or content into your share. Finally, educate users of your host service about social engineering or information gathering for expliotation by an attacker.
 
 
 

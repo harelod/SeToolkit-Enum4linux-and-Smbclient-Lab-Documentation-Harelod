@@ -84,7 +84,7 @@ Nb: By double clicking file name hare.html, the clone website is open which look
 ## 3. Results of Credential Harvester
 <img width="1238" height="195" alt="image" src="https://github.com/user-attachments/assets/7e15e3dc-3951-4776-85cb-426b69b6c3f0" />
 
-It can be observed the crendential used by the victim has been accessed by the attacker immediately the victim loged in.
+It can be observed the credential used by the victim has been accessed by the attacker immediately the victim loged in.
 
 ## 4. Saving and Viewing Credential Harvester Report
 ### 1st Instruction: Press Ctrl + c to stop service
@@ -191,8 +191,7 @@ From above Printer, IPc and Admin folders are shared
 
 
 # (c) SMBCLIENT Results & Docummentations
-## 1. Servive Lanch
-## 1. Initiating SeToolkit
+## 1. Initiating smbclient
 ### Command: ``` smbclient --help ``` 
 ### Purpose: To start smbclient help menu
 <img width="952" height="572" alt="image" src="https://github.com/user-attachments/assets/9151335b-e5f9-42d5-81b9-83ab75d3ec14" />
